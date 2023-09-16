@@ -1,0 +1,53 @@
+*{
+    text-align: center;
+    background-color: #f0f0f0;
+    font-family: "Poppins", sans-serif;
+}
+
+h1{
+    font-size: 23px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+
+.form-content{
+    padding-top: 20px;
+}
+
+label{
+    font-family: "Didact Gothic", san-serif;
+    font-size: 18px;
+}
+
+input{
+    width:200px;
+    padding:10px;
+    text-align: left;
+    border-radius: 8px;
+}
+
+.btn{
+    margin-top: 20px;
+    /* TRBL */
+    padding: 8px 12px; 
+    font-size: 16px;
+    letter-spacing: 1.25px;
+    border-radius: 8px;
+    background-color: #355BF5;
+    color: #f8f8f8;
+    border: none;
+}
+
+
+
+
+
+
